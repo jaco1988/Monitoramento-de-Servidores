@@ -20,7 +20,7 @@ Projeto desenvolvido em Java com Spring Boot para monitorar a disponibilidade e 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/monitoramento-servidores.git
+   git clone https://github.com/jaco88/monitoramento-servidores.git
    cd monitoramento-servidores
    ```
 
