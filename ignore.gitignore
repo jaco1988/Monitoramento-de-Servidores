@@ -1,0 +1,41 @@
+# Arquivos compilados e diretórios
+/target/
+/bin/
+/out/
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+/.idea/
+/*.iml
+*.ipr
+*.iws
+
+# Configurações do Eclipse
+/.classpath
+/.project
+/.settings/
+
+# Configurações do VSCode
+.vscode/
+
+# Maven
+/log/
+.settings/
+
+# Outros arquivos temporários
+*.tmp
+*.swp
+*~
+
+# Arquivos de backup
+*.bak
+
+# Spring Boot properties sensíveis (opcional)
+/application.properties
+
